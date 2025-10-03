@@ -19,7 +19,7 @@ export default function Banner() {
             দোকানদার আর ক্রেতার জন্য নিরাপদ, সহজ এবং স্মার্ট খাতা ব্যবস্থাপনা।
           </p>
 
-          <div className="flex justify-center md:justify-start gap-4 mb-8">
+          <div className="md:flex justify-center md:justify-start gap-4 mb-8">
             <button className="flex items-center gap-2 bg-[#0aa9a2] text-white font-semibold px-6 py-3 rounded-lg shadow-lg hover:bg-[#08918a] transition-transform transform hover:scale-105">
               <IoDownloadOutline className="text-2xl"/>
 
@@ -30,12 +30,12 @@ export default function Banner() {
             </button>
           </div>
 
-          <div className="flex justify-center md:justify-start ">
+          <div className="md:flex justify-center md:justify-start ">
             <div className="bg-[#0aa9a2]/20 backdrop-blur-sm border border-gray-200 rounded-2xl p-4 flex items-center max-w-md gap-4 shadow-sm">
               <Image src={qrCode} alt="QR Code" width={120} height={120} />
               <div className="space-y-2">
                 <CiShop className="text-2xl" />
-                <h3 className="font-bold text-[#0aa9a2] text-lg">
+                <h3 className="font-bold text-[#0aa9a2] md:text-lg">
                   দোকানদারদের জন্য
                 </h3>
                 <p className="text-gray-600 text-sm">
@@ -63,7 +63,7 @@ export default function Banner() {
 
           {/* Phone Images */}
           <div className=" h-[500px] w-[300px]">
-            <div className="absolute transform -translate-x-56 -translate-y-10">
+            <div className="absolute transform md:-translate-x-56 md:-translate-y-10">
               <Image
                 src={mobileImage}
                 alt="App Screenshot 2"
@@ -72,7 +72,7 @@ export default function Banner() {
                 className="drop-shadow-2xl"
               />
             </div>
-            <div className="absolute transform translate-x-20 translate-y-10">
+            <div className="absolute transform md:translate-x-20 md:translate-y-10">
               <Image
                 src={mobileImage}
                 alt="App Screenshot 1"
