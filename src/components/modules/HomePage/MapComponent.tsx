@@ -1,4 +1,3 @@
-// components/MapComponent.js
 "use client";
 
 import { APIProvider, Map, AdvancedMarker } from "@vis.gl/react-google-maps";
@@ -21,7 +20,7 @@ const MapComponent = () => {
         <Map
           zoom={14}
           center={position}
-          mapId={"YOUR_MAP_ID"} // Optional: for custom map styling
+          mapId={"YOUR_MAP_ID"}
           disableDefaultUI={true}
         >
           <AdvancedMarker position={position}>

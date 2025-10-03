@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "CiShop",
+    "number": "১,২৪০+",
+    "label": "অন্তর্ভূক্ত দোকানসমূহ",
+    "description": "যাচাইকৃত স্থানীয় ব্যবসা"
+  },
+  {
+    "icon": "FaUserGroup",
+    "number": "২৪ হাজার+",
+    "label": "সক্রিয় ভোক্তা",
+    "description": "বিশ্বস্ত কমিউনিটি সদস্যরা"
+  },
+  {
+    "icon": "TbFileDollar",
+    "number": "২৫ লক্ষ+",
+    "label": "মোট লেনদেন",
+    "description": "ক্রেডিট লেনদেন সম্পন্ন হয়েছে"
+  },
+  {
+    "icon": "IoIosNotificationsOutline",
+    "number": "৫০ হাজার+",
+    "label": "পেমেন্ট রিমাইন্ডার",
+    "description": "সফলভাবে পাঠানো হয়েছে"
+  }
+]
