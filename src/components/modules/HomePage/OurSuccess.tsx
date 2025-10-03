@@ -1,11 +1,9 @@
-// components/OurSuccess.js
 import React from "react";
 import { CiShop } from "react-icons/ci";
 import { FaUserGroup } from "react-icons/fa6";
 import { TbFileDollar } from "react-icons/tb";
 import { IoIosNotificationsOutline } from "react-icons/io";
 
-// Data for the success metrics
 const successData = [
   {
     icon: <CiShop />,
