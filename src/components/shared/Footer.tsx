@@ -1,5 +1,3 @@
-// components/Footer.tsx
-
 import React from "react";
 import Image from "next/image";
 import { Facebook, Instagram, Linkedin, Mail, Phone } from "lucide-react";

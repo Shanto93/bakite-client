@@ -1,0 +1,24 @@
+[
+  {
+    "icon": "FaWhatsapp",
+    "title": "হটসএপ সাপোর্ট",
+    "line1": "WhatsApp-এ তাৎক্ষণিক সাহায্য পান",
+    "line2": "আমাদের সাথে চ্যাট করুন",
+    "isLink": true
+  },
+  {
+    "icon": "FaRegEnvelope",
+    "title": "ইমেইল সাপোর্ট",
+    "line1": "support@bakite.com",
+    "line2": "আমরা ২৪ ঘণ্টার মধ্যে আপনার সাথে যোগাযোগ করব",
+    "isLink": false,
+    "href": "mailto:support@bakite.com"
+  },
+  {
+    "icon": "FaPhoneAlt",
+    "title": "আমাদের কল করুন",
+    "line1": "+৮৮০১ XXXX-XXXXXX",
+    "line2": "সোম-শুক্র সকাল ৯টা - সন্ধ্যা ৬টা (ঢাকা সময়)",
+    "isLink": false
+  }
+]
