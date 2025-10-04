@@ -4,50 +4,11 @@ import React, { useState, useEffect, useMemo } from "react";
 import { useSearchParams } from "next/navigation";
 import GoogleMapReact from "google-map-react";
 import { FiMapPin } from "react-icons/fi";
-import { MdLocationOn } from "react-icons/md"; // Import the new location icon
 import { calculateDistance } from "@/components/utils/distance";
-
-const allShops = [
-  {
-    id: 1,
-    name: "Dhaka Electronics",
-    location: "Dhaka",
-    lat: 23.8103,
-    lng: 90.4125,
-  },
-  {
-    id: 2,
-    name: "Khulna Gadgets",
-    location: "Khulna",
-    lat: 22.8456,
-    lng: 89.5403,
-  },
-  {
-    id: 3,
-    name: "Sylhet Super Store",
-    location: "Sylhet",
-    lat: 24.8949,
-    lng: 91.8687,
-  },
-  {
-    id: 4,
-    name: "Rajshahi Tech",
-    location: "Rajshahi",
-    lat: 24.3745,
-    lng: 88.6042,
-  },
-  {
-    id: 5,
-    name: "Dhaka Mega Mall",
-    location: "Dhaka",
-    lat: 23.7771,
-    lng: 90.3994,
-  },
-];
+import allShops from './../../../public/data/shopData.json';
 
 const defaultCenter = { lat: 23.8103, lng: 90.4125 };
 const userLocation = { lat: 23.75, lng: 90.38 };
-
 const ShopMarker = ({
   text,
   isHovered,
@@ -79,7 +40,7 @@ const ShopMarker = ({
         <FiMapPin className="text-red-500" style={{ fontSize: "1.5rem" }} />
         <div className="absolute bottom-1 left-1/2 transform -translate-x-1/2 -translate-y-4">
           <div className="ml-1 mb-1 whitespace-nowrap bg-white px-2 py-1 text-sm font-bold rounded-md shadow-lg">
-            Dhaka Electronics
+            {text}
           </div>
         </div>
       </div>

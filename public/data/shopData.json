@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Dhaka Electronics",
+    "location": "Dhaka",
+    "lat": 23.8103,
+    "lng": 90.4125
+  },
+  {
+    "id": 2,
+    "name": "Khulna Gadgets",
+    "location": "Khulna",
+    "lat": 22.8456,
+    "lng": 89.5403
+  },
+  {
+    "id": 3,
+    "name": "Sylhet Super Store",
+    "location": "Sylhet",
+    "lat": 24.8949,
+    "lng": 91.8687
+  },
+  {
+    "id": 4,
+    "name": "Rajshahi Tech",
+    "location": "Rajshahi",
+    "lat": 24.3745,
+    "lng": 88.6042
+  },
+  {
+    "id": 5,
+    "name": "Dhaka Mega Mall",
+    "location": "Dhaka",
+    "lat": 23.7771,
+    "lng": 90.3994
+  },
+  {
+    "id": 6,
+    "name": "Chittagong Corner",
+    "location": "Chittagong",
+    "lat": 22.3569,
+    "lng": 91.7832
+  },
+  {
+    "id": 7,
+    "name": "Barisal Bazar",
+    "location": "Barisal",
+    "lat": 22.701,
+    "lng": 90.3535
+  },
+  {
+    "id": 8,
+    "name": "Rangpur Enterprise",
+    "location": "Rangpur",
+    "lat": 25.7439,
+    "lng": 89.2752
+  },
+  {
+    "id": 9,
+    "name": "Comilla Traders",
+    "location": "Comilla",
+    "lat": 23.4607,
+    "lng": 91.1809
+  },
+  {
+    "id": 10,
+    "name": "Mymensingh Point",
+    "location": "Mymensingh",
+    "lat": 24.7471,
+    "lng": 90.4203
+  },
+  {
+    "id": 11,
+    "name": "Jessore Traders",
+    "location": "Jessore",
+    "lat": 23.1335,
+    "lng": 89.1477
+  },
+  {
+    "id": 12,
+    "name": "Comilla Point",
+    "location": "Comilla",
+    "lat": 23.5303,
+    "lng": 91.4595
+  },
+  {
+    "id": 13,
+    "name": "Chittagong Mega Mall",
+    "location": "Chittagong",
+    "lat": 22.4068,
+    "lng": 91.9238
+  },
+  {
+    "id": 14,
+    "name": "Jessore Grocers",
+    "location": "Jessore",
+    "lat": 23.1855,
+    "lng": 89.1516
+  },
+  {
+    "id": 15,
+    "name": "Mymensingh Grocers",
+    "location": "Mymensingh",
+    "lat": 24.8545,
+    "lng": 90.4314
+  },
+  {
+    "id": 16,
+    "name": "Gazipur Tech",
+    "location": "Gazipur",
+    "lat": 24.0127,
+    "lng": 90.4009
+  },
+  {
+    "id": 17,
+    "name": "Cox's Bazar Junction",
+    "location": "Cox's Bazar",
+    "lat": 21.4449,
+    "lng": 92.0539
+  },
+  {
+    "id": 18,
+    "name": "Cox's Bazar Mega Mall",
+    "location": "Cox's Bazar",
+    "lat": 21.4732,
+    "lng": 92.0643
+  },
+  {
+    "id": 19,
+    "name": "Rangpur Pharmacy",
+    "location": "Rangpur",
+    "lat": 25.6863,
+    "lng": 89.315
+  },
+  {
+    "id": 20,
+    "name": "Rangpur Bazar",
+    "location": "Rangpur",
+    "lat": 25.8713,
+    "lng": 89.1786
+  },
+  {
+    "id": 21,
+    "name": "Barisal Enterprise",
+    "location": "Barisal",
+    "lat": 22.7366,
+    "lng": 90.4006
+  },
+  {
+    "id": 22,
+    "name": "Cox's Bazar IT Solutions",
+    "location": "Cox's Bazar",
+    "lat": 21.4954,
+    "lng": 92.0483
+  },
+  {
+    "id": 23,
+    "name": "Sylhet Gadgets",
+    "location": "Sylhet",
+    "lat": 24.9257,
+    "lng": 91.9222
+  },
+  {
+    "id": 24,
+    "name": "Sylhet Traders",
+    "location": "Sylhet",
+    "lat": 24.8331,
+    "lng": 91.9435
+  },
+  {
+    "id": 25,
+    "name": "Bogura Fashion World",
+    "location": "Bogura",
+    "lat": 24.831,
+    "lng": 89.3815
+  },
+  {
+    "id": 26,
+    "name": "Dhaka Junction",
+    "location": "Dhaka",
+    "lat": 23.8526,
+    "lng": 90.359
+  },
+  {
+    "id": 27,
+    "name": "Rangpur Junction",
+    "location": "Rangpur",
+    "lat": 25.8067,
+    "lng": 89.1437
+  },
+  {
+    "id": 28,
+    "name": "Sylhet Books & More",
+    "location": "Sylhet",
+    "lat": 24.8295,
+    "lng": 91.8328
+  },
+  {
+    "id": 29,
+    "name": "Rajshahi Junction",
+    "location": "Rajshahi",
+    "lat": 24.2593,
+    "lng": 88.7517
+  },
+  {
+    "id": 30,
+    "name": "Khulna Tech",
+    "location": "Khulna",
+    "lat": 22.9325,
+    "lng": 89.4301
+  },
+  {
+    "id": 31,
+    "name": "Rajshahi Textiles",
+    "location": "Rajshahi",
+    "lat": 24.4365,
+    "lng": 88.6067
+  },
+  {
+    "id": 32,
+    "name": "Dhaka Bazar",
+    "location": "Dhaka",
+    "lat": 23.7652,
+    "lng": 90.3333
+  },
+  {
+    "id": 33,
+    "name": "Gazipur Electronics",
+    "location": "Gazipur",
+    "lat": 24.0592,
+    "lng": 90.4103
+  },
+  {
+    "id": 34,
+    "name": "Rangpur Gadgets",
+    "location": "Rangpur",
+    "lat": 25.6794,
+    "lng": 89.1162
+  },
+  {
+    "id": 35,
+    "name": "Rajshahi Enterprise",
+    "location": "Rajshahi",
+    "lat": 24.3747,
+    "lng": 88.5429
+  },
+  {
+    "id": 36,
+    "name": "Gazipur Traders",
+    "location": "Gazipur",
+    "lat": 24.0826,
+    "lng": 90.443
+  },
+  {
+    "id": 37,
+    "name": "Mymensingh Bazar",
+    "location": "Mymensingh",
+    "lat": 24.6337,
+    "lng": 90.5587
+  },
+  {
+    "id": 38,
+    "name": "Bogura Seaport Market",
+    "location": "Bogura",
+    "lat": 24.8349,
+    "lng": 89.3137
+  },
+  {
+    "id": 39,
+    "name": "Chittagong Seaport Market",
+    "location": "Chittagong",
+    "lat": 22.2453,
+    "lng": 91.6036
+  },
+  {
+    "id": 40,
+    "name": "Gazipur Tech",
+    "location": "Gazipur",
+    "lat": 24.0359,
+    "lng": 90.4547
+  },
+  {
+    "id": 41,
+    "name": "Cox's Bazar Bazar",
+    "location": "Cox's Bazar",
+    "lat": 21.4134,
+    "lng": 92.0029
+  },
+  {
+    "id": 42,
+    "name": "Mymensingh Super Store",
+    "location": "Mymensingh",
+    "lat": 24.6226,
+    "lng": 90.5242
+  },
+  {
+    "id": 43,
+    "name": "Comilla Gadgets",
+    "location": "Comilla",
+    "lat": 23.3275,
+    "lng": 91.4843
+  },
+  {
+    "id": 44,
+    "name": "Chittagong Fashion World",
+    "location": "Chittagong",
+    "lat": 22.4044,
+    "lng": 91.7475
+  },
+  {
+    "id": 45,
+    "name": "Jessore Mega Mall",
+    "location": "Jessore",
+    "lat": 23.1356,
+    "lng": 89.2986
+  },
+  {
+    "id": 46,
+    "name": "Rangpur Fashion World",
+    "location": "Rangpur",
+    "lat": 25.8361,
+    "lng": 89.3915
+  },
+  {
+    "id": 47,
+    "name": "Sylhet Corner",
+    "location": "Sylhet",
+    "lat": 24.8159,
+    "lng": 91.7931
+  },
+  {
+    "id": 48,
+    "name": "Narayanganj Mega Mall",
+    "location": "Narayanganj",
+    "lat": 23.6555,
+    "lng": 90.5779
+  },
+  {
+    "id": 49,
+    "name": "Bogura Grocers",
+    "location": "Bogura",
+    "lat": 24.886,
+    "lng": 89.3189
+  },
+  {
+    "id": 50,
+    "name": "Rangpur Traders",
+    "location": "Rangpur",
+    "lat": 25.7187,
+    "lng": 89.3517
+  },
+  {
+    "id": 51,
+    "name": "Jessore Pharmacy",
+    "location": "Jessore",
+    "lat": 23.1677,
+    "lng": 89.1876
+  },
+  {
+    "id": 52,
+    "name": "Jessore Grocers",
+    "location": "Jessore",
+    "lat": 23.1484,
+    "lng": 89.1755
+  },
+  {
+    "id": 53,
+    "name": "Mymensingh Grocers",
+    "location": "Mymensingh",
+    "lat": 24.6955,
+    "lng": 90.4802
+  },
+  {
+    "id": 54,
+    "name": "Sylhet Enterprise",
+    "location": "Sylhet",
+    "lat": 24.8352,
+    "lng": 91.7252
+  },
+  {
+    "id": 55,
+    "name": "Dhaka Fashion World",
+    "location": "Dhaka",
+    "lat": 23.8539,
+    "lng": 90.3044
+  },
+  {
+    "id": 56,
+    "name": "Barisal Seaport Market",
+    "location": "Barisal",
+    "lat": 22.6233,
+    "lng": 90.4596
+  },
+  {
+    "id": 57,
+    "name": "Cox's Bazar IT Solutions",
+    "location": "Cox's Bazar",
+    "lat": 21.496,
+    "lng": 92.0022
+  },
+  {
+    "id": 58,
+    "name": "Barisal Junction",
+    "location": "Barisal",
+    "lat": 22.6257,
+    "lng": 90.2244
+  },
+  {
+    "id": 59,
+    "name": "Gazipur Textiles",
+    "location": "Gazipur",
+    "lat": 24.0567,
+    "lng": 90.4816
+  },
+  {
+    "id": 60,
+    "name": "Rajshahi Fashion World",
+    "location": "Rajshahi",
+    "lat": 24.255,
+    "lng": 88.524
+  },
+  {
+    "id": 61,
+    "name": "Sylhet Enterprise",
+    "location": "Sylhet",
+    "lat": 24.9043,
+    "lng": 91.8984
+  },
+  {
+    "id": 62,
+    "name": "Rangpur Electronics",
+    "location": "Rangpur",
+    "lat": 25.7729,
+    "lng": 89.1634
+  },
+  {
+    "id": 63,
+    "name": "Khulna Point",
+    "location": "Khulna",
+    "lat": 22.7464,
+    "lng": 89.5861
+  },
+  {
+    "id": 64,
+    "name": "Mymensingh Tech",
+    "location": "Mymensingh",
+    "lat": 24.6777,
+    "lng": 90.421
+  },
+  {
+    "id": 65,
+    "name": "Gazipur Tech",
+    "location": "Gazipur",
+    "lat": 24.0034,
+    "lng": 90.4573
+  },
+  {
+    "id": 66,
+    "name": "Sylhet Bazar",
+    "location": "Sylhet",
+    "lat": 24.8167,
+    "lng": 91.9088
+  },
+  {
+    "id": 67,
+    "name": "Gazipur Fashion World",
+    "location": "Gazipur",
+    "lat": 24.0873,
+    "lng": 90.4338
+  },
+  {
+    "id": 68,
+    "name": "Khulna Gadget Hub",
+    "location": "Khulna",
+    "lat": 22.9771,
+    "lng": 89.5217
+  },
+  {
+    "id": 69,
+    "name": "Rangpur Fashion World",
+    "location": "Rangpur",
+    "lat": 25.8104,
+    "lng": 89.1677
+  },
+  {
+    "id": 70,
+    "name": "Khulna Bazar",
+    "location": "Khulna",
+    "lat": 22.8329,
+    "lng": 89.689
+  },
+  {
+    "id": 71,
+    "name": "Rangpur Junction",
+    "location": "Rangpur",
+    "lat": 25.8103,
+    "lng": 89.2788
+  },
+  {
+    "id": 72,
+    "name": "Sylhet Pharmacy",
+    "location": "Sylhet",
+    "lat": 24.8256,
+    "lng": 91.8104
+  },
+  {
+    "id": 73,
+    "name": "Narayanganj Central",
+    "location": "Narayanganj",
+    "lat": 23.699,
+    "lng": 90.5538
+  },
+  {
+    "id": 74,
+    "name": "Chittagong IT Solutions",
+    "location": "Chittagong",
+    "lat": 22.298,
+    "lng": 91.6627
+  },
+  {
+    "id": 75,
+    "name": "Narayanganj Gadgets",
+    "location": "Narayanganj",
+    "lat": 23.6135,
+    "lng": 90.5854
+  },
+  {
+    "id": 76,
+    "name": "Mymensingh Enterprise",
+    "location": "Mymensingh",
+    "lat": 24.7366,
+    "lng": 90.3336
+  },
+  {
+    "id": 77,
+    "name": "Mymensingh Super Store",
+    "location": "Mymensingh",
+    "lat": 24.6051,
+    "lng": 90.5995
+  },
+  {
+    "id": 78,
+    "name": "Chittagong Textiles",
+    "location": "Chittagong",
+    "lat": 22.2855,
+    "lng": 91.6383
+  },
+  {
+    "id": 79,
+    "name": "Narayanganj Traders",
+    "location": "Narayanganj",
+    "lat": 23.6116,
+    "lng": 90.5576
+  },
+  {
+    "id": 80,
+    "name": "Barisal Electronics",
+    "location": "Barisal",
+    "lat": 22.5171,
+    "lng": 90.4341
+  },
+  {
+    "id": 81,
+    "name": "Cox's Bazar Central",
+    "location": "Cox's Bazar",
+    "lat": 21.4441,
+    "lng": 92.0256
+  },
+  {
+    "id": 82,
+    "name": "Narayanganj Pharmacy",
+    "location": "Narayanganj",
+    "lat": 23.6471,
+    "lng": 90.5657
+  },
+  {
+    "id": 83,
+    "name": "Rangpur Seaport Market",
+    "location": "Rangpur",
+    "lat": 25.882,
+    "lng": 89.1981
+  },
+  {
+    "id": 84,
+    "name": "Rangpur Traders",
+    "location": "Rangpur",
+    "lat": 25.656,
+    "lng": 89.282
+  },
+  {
+    "id": 85,
+    "name": "Narayanganj Bazar",
+    "location": "Narayanganj",
+    "lat": 23.606,
+    "lng": 90.5628
+  },
+  {
+    "id": 86,
+    "name": "Rajshahi Fashion World",
+    "location": "Rajshahi",
+    "lat": 24.2079,
+    "lng": 88.7463
+  },
+  {
+    "id": 87,
+    "name": "Khulna Corner",
+    "location": "Khulna",
+    "lat": 22.852,
+    "lng": 89.4606
+  },
+  {
+    "id": 88,
+    "name": "Chittagong IT Solutions",
+    "location": "Chittagong",
+    "lat": 22.2785,
+    "lng": 91.9573
+  },
+  {
+    "id": 89,
+    "name": "Sylhet Corner",
+    "location": "Sylhet",
+    "lat": 24.9965,
+    "lng": 91.9866
+  },
+  {
+    "id": 90,
+    "name": "Barisal Fashion World",
+    "location": "Barisal",
+    "lat": 22.8607,
+    "lng": 90.3334
+  },
+  {
+    "id": 91,
+    "name": "Chittagong Tech",
+    "location": "Chittagong",
+    "lat": 22.4188,
+    "lng": 91.7204
+  },
+  {
+    "id": 92,
+    "name": "Khulna Grocers",
+    "location": "Khulna",
+    "lat": 22.9122,
+    "lng": 89.551
+  },
+  {
+    "id": 93,
+    "name": "Dhaka Traders",
+    "location": "Dhaka",
+    "lat": 23.8597,
+    "lng": 90.3131
+  },
+  {
+    "id": 94,
+    "name": "Gazipur Textiles",
+    "location": "Gazipur",
+    "lat": 24.0704,
+    "lng": 90.4907
+  },
+  {
+    "id": 95,
+    "name": "Gazipur Central",
+    "location": "Gazipur",
+    "lat": 24.0123,
+    "lng": 90.4263
+  },
+  {
+    "id": 96,
+    "name": "Cox's Bazar Tech",
+    "location": "Cox's Bazar",
+    "lat": 21.4106,
+    "lng": 92.0883
+  },
+  {
+    "id": 97,
+    "name": "Rangpur Gadgets",
+    "location": "Rangpur",
+    "lat": 25.7265,
+    "lng": 89.1144
+  },
+  {
+    "id": 98,
+    "name": "Gazipur Bazar",
+    "location": "Gazipur",
+    "lat": 24.0702,
+    "lng": 90.4762
+  },
+  {
+    "id": 99,
+    "name": "Khulna Enterprise",
+    "location": "Khulna",
+    "lat": 22.953,
+    "lng": 89.5562
+  },
+  {
+    "id": 100,
+    "name": "Narayanganj Textiles",
+    "location": "Narayanganj",
+    "lat": 23.6974,
+    "lng": 90.5543
+  }
+]

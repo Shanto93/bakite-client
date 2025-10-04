@@ -24,7 +24,7 @@ const MapComponent = () => {
           disableDefaultUI={true}
         >
           <AdvancedMarker position={position}>
-            <FaMapMarkerAlt className="text-4xl text-purple-600" />
+            <FaMapMarkerAlt className="text-4xl text-[#0aa9a2]" />
           </AdvancedMarker>
         </Map>
       </div>
