@@ -44,7 +44,7 @@ const StarRating = ({ rating }: { rating: number }) => (
 
 const WhatOurCustomerSay = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const autoplayInterval = useRef<NodeJS.Timeout | null>(null); // Ref to hold the interval ID
+  const autoplayInterval = useRef<NodeJS.Timeout | null>(null); 
 
   const handleNext = useCallback(() => {
     setCurrentIndex((prevIndex) =>
@@ -62,7 +62,7 @@ const WhatOurCustomerSay = () => {
     if (autoplayInterval.current) {
       clearInterval(autoplayInterval.current);
     }
-    autoplayInterval.current = setInterval(handleNext, 5000); // Change slide every 5 seconds
+    autoplayInterval.current = setInterval(handleNext, 2000); // Change slide every 5 seconds
   }, [handleNext]);
 
   const stopAutoplay = () => {
@@ -152,7 +152,7 @@ const WhatOurCustomerSay = () => {
               <button
                 key={index}
                 onClick={() => setCurrentIndex(index)}
-                className={`h-2 rounded-full transition-all duration-10 ${
+                className={`h-2 rounded-full transition-all duration-1 ${
                   currentIndex === index
                     ? "w-6 bg-[#0aa9a2]"
                     : "w-2 bg-gray-300"
