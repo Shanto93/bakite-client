@@ -3,6 +3,7 @@ import { Contact } from "@/components/modules/HomePage/Contact";
 import FaqSection from "@/components/modules/HomePage/FaqSection";
 import OurSuccess from "@/components/modules/HomePage/OurSuccess";
 import ShopDetails from "@/components/modules/HomePage/ShopDetails";
+import { TeamSection } from "@/components/modules/HomePage/TeamSection";
 import WhatOurCustomerSay from "@/components/modules/HomePage/WhatOurCustomerSay";
 import React from "react";
 
@@ -15,6 +16,7 @@ const HomePage = () => {
       <WhatOurCustomerSay></WhatOurCustomerSay>
       <Contact></Contact>
       <FaqSection></FaqSection>
+      <TeamSection></TeamSection>
     </div>
   );
 };
