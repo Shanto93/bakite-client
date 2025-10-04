@@ -1,0 +1,31 @@
+[
+  {
+    "name": "আবদুল্লাহ রহমান",
+    "role": "সহ-প্রতিষ্ঠাতা এবং সিইও",
+    "avatar": "https://github.com/shadcn.png",
+    "social": {
+      "facebook": "https://facebook.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:abdullah@example.com"
+    }
+  },
+  {
+    "name": "ফাতেমা খান",
+    "role": "সহ-প্রতিষ্ঠাতা এবং সিটিও",
+    "avatar": "https://github.com/shadcn.png",
+    "social": {
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:fatema@example.com"
+    }
+  },
+  {
+    "name": "রহিম আহমেদ",
+    "role": "পণ্য প্রধান",
+    "avatar": "https://github.com/shadcn.png",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "email": "mailto:rahim@example.com"
+    }
+  }
+]

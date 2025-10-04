@@ -2,39 +2,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Facebook, Instagram, Linkedin, Mail } from "lucide-react";
-
-// Define the team members' data
-const teamMembers = [
-  {
-    name: "আবদুল্লাহ রহমান",
-    role: "সহ-প্রতিষ্ঠাতা এবং সিইও",
-    avatar: "https://github.com/shadcn.png", // Replace with actual image path
-    social: {
-      facebook: "https://facebook.com",
-      linkedin: "https://linkedin.com",
-      email: "mailto:abdullah@example.com",
-    },
-  },
-  {
-    name: "ফাতেমা খান",
-    role: "সহ-প্রতিষ্ঠাতা এবং সিটিও",
-    avatar: "https://github.com/shadcn.png", // Replace with actual image path
-    social: {
-      instagram: "https://instagram.com",
-      linkedin: "https://linkedin.com",
-      email: "mailto:fatema@example.com",
-    },
-  },
-  {
-    name: "রহিম আহমেদ",
-    role: "পণ্য প্রধান",
-    avatar: "https://github.com/shadcn.png", // Replace with actual image path
-    social: {
-      linkedin: "https://linkedin.com",
-      email: "mailto:rahim@example.com",
-    },
-  },
-];
+import teamMembers from "../../../../public/data/teamMembers.json";
 
 export function TeamSection() {
   return (

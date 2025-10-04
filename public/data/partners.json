@@ -1,0 +1,8 @@
+[
+  { "name": "Logoipsum Blue", "src": "/logoipsum-blue.svg" },
+  { "name": "Logoipsum Orange", "src": "/logoipsum-orange.svg" },
+  { "name": "Logoipsum Red", "src": "/logoipsum-red.svg" },
+  { "name": "Logoipsum Dark", "src": "/logoipsum-dark.svg" },
+  { "name": "Logoipsum Green", "src": "/logoipsum-green.svg" },
+  { "name": "Logoipsum Purple", "src": "/logoipsum-purple.svg" }
+]
